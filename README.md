@@ -1,4 +1,5 @@
-# RNA-seq-differential-gene-expression-analysis  
+RNA-seq-differential-gene-expression-analysis 
+---
 **Project Description**  
 ---  
 **Reference paper**  
