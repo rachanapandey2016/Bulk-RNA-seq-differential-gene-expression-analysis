@@ -21,8 +21,8 @@ Specific Objectives:
 - Bulk RNA seq data from pheripheral CD4+ T cells, single end, 75bp
 - Immunotherapy provided- Nivolumab, Pembrolizumab, or Nivolumab/Ipilimumab
 - Groups:
-  - 6 long responders (Relapse free survival >12 months)
-  - 6 short progressors (Relapse free survival <12 months)
+  - 6 long responders (Relapse free survival >12 months) (SRR--2341, SRR--2340, SRR--2339, SRR--2336, SRR--2335, SRR--2318, SRR--2319)
+  - 6 short progressors (Relapse free survival <12 months) (SRR--2338, SRR--2321, SRR--2323, SRR--2334, SRR--2330, SRR--2327)
   - GEO Accession number-  GSE292798
 ---   
 ## 🧪 Methods Overview
