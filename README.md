@@ -25,8 +25,26 @@ Specific Objectives:
 3. To interpret the biological relevance of DEGs in the context of immune response and melanoma progression.
 
 **Data information**  
+- Bulk RNA seq data from pheripheral CD4+ T cells, single end, 75bp
+- Immunotherapy provided- Nivolumab, Pembrolizumab, or Nivolumab/Ipilimumab
+- Groups:
+  - 6 long responders (Relapse free survival >12 months)
+  - 6 short progressors (Relapse free survival <12 months)
+  - GEO Accession number-  GSE292798
+---   
+## 🧪 Methods Overview
 
+- **Preprocessing**: FastQC, MultiQC, fastp
+- **Alignment**: STAR
+- **Quantification**: Salmon
+- **Gene-level summarization**: tximport
+- **Differential Expression Analysis**: DESeq2 with LFC shrinkage (`ashr`)
+- **Visualization**: PCA, MA Plot, Volcano Plot, Heatmap
 
-**Requirements**  
----  
+## 📊 Key Findings
+- Identified **14 DEGs** (adj. p < 0.05, |log2FC| > 1)
+- Notable genes:
+  - **Upregulated**:- 5 upregulated genes: AMPD2, NPIPA5, SAMD5, RNU1-3, UPF3AP1
+  - **Downregulated**:9 downregulated genes PROSER3, BCL2L1, CARNS1, JAKMIP2, ZNF808, IST1, AL022328.2, AC134407.2, MEG3
+
 
