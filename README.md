@@ -11,7 +11,7 @@ The project aims to distinguish **long responders** (relapse-free survival >12 m
 *Transcriptomic signatures in peripheral CD4+T-lymphocytes may reflect melanoma staging and immunotherapy responsiveness prior to ICI initiation*  
 
 **Research Objectives**  
-General Objective: 
+General Objective:  
 To identify transcriptomic markers that distinguish Long Responders from Short Progressors in Stage IV melanoma patients after ICI therapy.  
 Specific Objectives: 
 1. To identify differentially expressed genes (DEGs) in CD4+ T cells between S4L and S4S. 
