@@ -5,7 +5,7 @@
 #SBATCH --mem=50g
 #SBATCH --tmp=120g
 #SBATCH --mail-type=ALL
-#SBATCH --mail-user=pande250@umn.edu 
+#SBATCH --mail-user=****@gmail.com
 
 # Activate conda
 source ~/miniconda3/etc/profile.d/conda.sh
